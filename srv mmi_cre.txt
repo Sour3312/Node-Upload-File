@@ -1,0 +1,6 @@
+ "access_token": "a09c32ba-5916-4f73-9f9a-bde7fbb2e512",
+    "token_type": "bearer",
+    "expires_in": 86304,
+    "scope": "READ",
+    "project_code": "prj1637219575i616692790",
+    "client_id": "33OkryzDZsJXnhnlCFr57f954XcQYFZQhcF2UeFyimzGqcuYiL0j4-9w2tb9Q__JgmnOi6nm64u_8aCw-prroQ=="
